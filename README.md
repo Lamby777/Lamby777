@@ -12,6 +12,12 @@ Some of my tech-related interests, ranked from highest to lowest:
 
 ### Creating my own MOTHER 3 inspired RPG called P/E/T/S.
 
+![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 Contact Info (slightly obfuscated to prevent scraping):
 
 | Platform | Details
