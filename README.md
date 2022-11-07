@@ -1,8 +1,11 @@
 # Hello, fellow GitHub user!
 
-I code as a hobby, mainly in TypeScript, Python, and Rust.
+I code as a hobby, mainly in TypeScript, Rust, and Python.
 
-Maybe someday I'll work as a programmer, too.
+Currently learning Rust, and I'm somewhat new to low-level programming languages.
+I'm fairly comfortable working in TypeScript or JavaScript.
+I like learning by making many small projects, or contributing new QoL fixes/features to other people's work.
+Hopefully, someday, I'll work as a programmer, too.
 
 Some of my tech-related interests, ranked from highest to lowest:
 - Video Games (and game development)
@@ -25,14 +28,3 @@ Contact Info (slightly obfuscated to prevent scraping):
 | Twitter  | @{}Carbonado870
 | Discord  | Dexie With Drip{#}8426
 | Email    | diesel123guitar@456sparklet.789org **(remove all the numbers)**
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
