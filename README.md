@@ -5,7 +5,7 @@ I code as a hobby, mainly in TypeScript, Rust, and Python.
 Currently learning Rust, and I'm somewhat new to low-level programming languages.
 I'm fairly comfortable working in TypeScript or JavaScript.
 I like learning by making many small projects, or contributing new QoL fixes/features to other people's work.
-Hopefully, someday, I'll work as a programmer, too.
+Hopefully, someday, I'll work as a programmer or security researcher too.
 
 Some of my tech-related interests, ranked from highest to lowest:
 - Video Games (and game development)
