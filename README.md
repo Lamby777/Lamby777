@@ -21,10 +21,8 @@ Some of my tech-related interests, ranked from highest to lowest:
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-Contact Info (slightly obfuscated to prevent scraping):
+Contact Info
 
 | Platform | Details
 |----------|--------------------------
-| Twitter  | @{}Carbonado870
-| Discord  | Dexie With Drip{#}8426
-| Email    | diesel123guitar@456sparklet.789org **(remove all the numbers)**
+| Email    | dex[@]sparklet.org
