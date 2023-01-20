@@ -7,11 +7,11 @@ I'm fairly comfortable working in TypeScript or JavaScript.
 I like learning by making many small projects, or contributing new QoL fixes/features to other people's work.
 Hopefully, someday, I'll work as a programmer or security researcher too.
 
-Some of my tech-related interests, ranked from highest to lowest:
+Some of my tech-related interests:
 - Video Games (and game development)
 - Cybersecurity
-- Hackathons / Competitions / other challenges
-- Crypto / Blockchain (I'm not a crypto-bro :> )
+- Hackathons / Competitions
+- Linux
 
 ### Creating my own MOTHER 3 inspired RPG called P/E/T/S.
 
