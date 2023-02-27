@@ -24,4 +24,4 @@ Contact Info
 
 | Platform | Details
 |----------|--------------------------
-| Email    | dex[@]sparklet.org
+| Email    | cherry[@]sparklet.org
