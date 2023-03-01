@@ -24,4 +24,4 @@ Contact Info
 
 | Platform | Details
 |----------|--------------------------
-| Email    | cherry[@]sparklet.org
+| Email    | cherry <@> sparklet.org
