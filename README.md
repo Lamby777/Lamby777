@@ -1,14 +1,9 @@
 # Hello, fellow GitHub user!
 
-I code as a hobby, mainly in TypeScript, Rust, and Python.
-
-Currently learning Rust, and I'm somewhat new to low-level programming languages.
-Also learning C# and GDScript to start over on my RPG project in Godot Engine.
-I'm fairly comfortable working in TypeScript or JavaScript.
+I code mainly in TypeScript and Python, but also Rust and a little bit of Zig for my personal projects. :)
 I like learning by making many small projects, or contributing new QoL fixes/features to other people's work.
-Hopefully, someday, I'll work as a programmer or security researcher too.
 
-Some of my tech-related interests:
+Some tech-related interests:
 - Video Games (and game development)
 - Cybersecurity
 - Hackathons / Competitions
@@ -19,6 +14,7 @@ Some of my tech-related interests:
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+Check out the [`npxTSC` organization](https://github.com/npxTSC) for some of my more serious experimental projects.
 
 Contact Info
 
