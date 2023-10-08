@@ -14,7 +14,8 @@ Some tech-related interests:
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Check out the [`npxTSC` organization](https://github.com/npxTSC) for some of my more serious experimental projects.
+Check out the [`npxTSC` organization](https://github.com/npxTSC) for some of my more serious experimental projects...
+or maybe you'd rather check out [my game](https://github.com/Lamby777/PETS-G)...?
 
 Contact Info
 
