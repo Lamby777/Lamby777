@@ -1,7 +1,7 @@
 # Hello, fellow GitHub user!
 
-I code mainly in TypeScript and Python, but also Rust and a little bit of Zig for my personal projects. :)
 I like learning by making many small projects, or contributing new QoL fixes/features to other people's work.
+I code mainly in Rust, but also TypeScript, Python, and a little bit of Zig for my personal projects. :)
 
 Some tech-related interests:
 - Video Games (and game development)
@@ -9,8 +9,6 @@ Some tech-related interests:
 - Hackathons / Competitions
 - Linux
 
-![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
@@ -19,6 +17,8 @@ or maybe you'd rather check out [my game](https://github.com/Lamby777/PETS-G)...
 
 Contact Info
 
-| Platform | Details
-|----------|--------------------------
-| Email    | cherry <@> sparklet.org
+| Platform | Details (ignore slashes) |
+|----------|--------------------------|
+| Email    | cherry /@/ sparklet.org  |
+| Discord  | ref/cherry               |
+| Mastodon | cascade /@/ ioc.exchange |
