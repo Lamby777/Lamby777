@@ -9,6 +9,11 @@ Some tech-related interests:
 - Hackathons / Competitions
 - Linux
 
+Stuff I'm currently learning:
+- Godot Engine
+- Vue
+- More Data Structures
+
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Lamby777/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
