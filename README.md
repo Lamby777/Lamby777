@@ -28,4 +28,5 @@ Contact Info
 |----------|--------------------------|
 | Email    | cherry /@/ sparklet.org  |
 | Discord  | ref/cherry               |
-| Mastodon | cascade /@/ ioc.exchange |
+| BlueSky  | @refcherry.bsky.social   |
+| Mastodon | cascade@ioc.exchange     |
