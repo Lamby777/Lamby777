@@ -24,9 +24,7 @@ or maybe you'd rather check out [my game](https://github.com/Lamby777/PETS-G)...
 
 Contact Info
 
-| Platform | Details (ignore slashes) |
-|----------|--------------------------|
-| Email    | cherry /@/ sparklet.org  |
-| Discord  | ref/cherry               |
-| BlueSky  | @refcherry.bsky.social   |
-| Mastodon | cascade@ioc.exchange     |
+| Platform | Details (ignore slashes)    |
+|----------|-----------------------------|
+| Email    | refcherry /@/ sparklet.org  |
+| Discord  | ref/cherry                  |
